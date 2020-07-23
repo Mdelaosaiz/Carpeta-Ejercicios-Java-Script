@@ -1,0 +1,1 @@
+Queremos escribir por consola los dias pares de cada mes
