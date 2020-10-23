@@ -9,3 +9,4 @@ Si contiene la clase warning, el título sea 'AVISO' y el texto sea: 'Tenga cuid
 Si contiene la clase error, el título sea 'ERROR' y el texto sea: 'Ha surgido un error'
 Si contiene la clase success, el título sea 'CORRECTO' y el texto sea: 'Los datos son correctos'
 Cambia la clase en HTML y comprueba que el código de JavaScript funciona.
+
